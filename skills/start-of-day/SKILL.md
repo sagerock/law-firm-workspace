@@ -8,8 +8,9 @@ description: Give the attorney a short overview of open items and upcoming deadl
 This is the one routine that reads across matters. Read only each `matter.md` (not
 notes or drafts), and don't mix details between matters in what you write.
 
-1. List the folders directly inside `matters/` (not their contents), skipping `_template`. Include the fictional example
-   only if it's the only matter, and label it as the sample.
+1. List the folders directly inside `matters/` (not their contents), skipping
+   `_template`. Include the fictional example only if it's the only matter, and label
+   it as the sample.
 2. From each `matter.md`, pull: status, deadlines in the next 14 days, unchecked open
    items owned by the firm, and the first line of **Where we left off**.
 3. Report, most urgent first:
