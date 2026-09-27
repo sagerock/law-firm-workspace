@@ -1,6 +1,12 @@
 # How we write
 
-Applies to anything a client, colleague, or opposing party will read.
+Applies to anything a client, colleague, or opposing party will read. Things the AI
+must never say or do are in the **Never** section of `firm/positions.md`.
+
+## Our clients
+
+[Who the typical client is, for example retirees or young families, and what that means
+for how things should be explained.]
 
 ## Tone
 
@@ -16,8 +22,4 @@ Applies to anything a client, colleague, or opposing party will read.
 
 ## Sign-off
 
-[How client letters and emails are signed.]
-
-## Never
-
-- [things the AI must never say or do in client communications, such as quoting fees]
+[How client letters and emails are signed. Full signature block is in `firm/profile.md`.]

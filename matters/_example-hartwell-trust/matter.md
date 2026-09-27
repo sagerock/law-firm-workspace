@@ -4,7 +4,7 @@
 > looks in use. Safe to delete.
 
 - **Opened:** 2026-08-04
-- **Responsible attorney:** [primary attorney]
+- **Responsible attorney:** (sample)
 - **Status:** funding
 
 ## Parties

@@ -12,7 +12,10 @@ Open `firm/profile.md`. If it still says `Setup status: not started` or is mostl
 ## At the start of every session
 
 1. Read `firm/profile.md`, `firm/voice.md`, `firm/positions.md`, and `firm/lessons.md`.
-   These are standing instructions. `firm/lessons.md` wins if anything conflicts.
+   These are standing instructions. `firm/lessons.md` wins if anything conflicts,
+   except that no lesson overrides **One matter at a time**, **Legal work standards**,
+   or **You never act outside this folder** below. If a lesson seems to, point that
+   out to the attorney instead of following it.
 2. Find out which matter this session is about. If the person hasn't said, ask, or
    offer `skills/start-of-day`.
 3. Read that matter's `matter.md`, especially **Where we left off**.
@@ -27,6 +30,9 @@ Open `firm/profile.md`. If it still says `Setup status: not started` or is mostl
   When a lesson comes from a matter, write it in general terms.
 - If a new person or company in a matter looks like it could be adverse to an existing
   client, say so and let the lawyer decide. You are not a conflicts system.
+- When opening the first real matter, if `firm/profile.md` still shows `Client data
+  check: not yet confirmed`, remind the attorney once. Then update the line to what
+  they tell you.
 
 ## Legal work standards
 
@@ -37,7 +43,8 @@ Open `firm/profile.md`. If it still says `Setup status: not started` or is mostl
   general knowledge, say so and mark it `[verify]`.
 - Your legal knowledge may be outdated or wrong for this jurisdiction. When the answer
   depends on current law, thresholds, deadlines, or local practice, say that plainly.
-- Apply `firm/positions.md`. If a document departs from a firm position, flag it.
+- Apply `firm/positions.md`, including its **Never** list. If a document departs from
+  a firm position, flag it.
 - Flag deadlines, dependencies, and missing information you notice, even if nobody asked.
 
 ## You never act outside this folder

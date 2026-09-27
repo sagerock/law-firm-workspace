@@ -2,12 +2,19 @@
 
 Setup status: not started
 Setup completed on: [date]
+Client data check: [not yet confirmed — has the firm reviewed its AI plan's data terms and ethics guidance before putting client information in?]
 
 ## The firm
 
 - **Firm name:** [firm name]
 - **Primary attorney:** [name, role]
 - **Jurisdictions:** [states or courts where the firm practices]
+
+## Letterhead
+
+- **Office address:** [address]
+- **Phone:** [phone]
+- **Signature block:** [name, title, firm, contact lines as used on letters]
 
 ## Practice areas
 

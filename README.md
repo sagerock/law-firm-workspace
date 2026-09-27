@@ -28,12 +28,15 @@ builds on itself instead of starting over.
    can fill it in later.
 
 If your app can't download from GitHub, click **Code → Download ZIP** on the GitHub
-page, unzip it into your folder, and paste: *"Follow SETUP.md in this folder."*
+page, save it anywhere, and tell the AI where it is. It will set things up from there.
+
+Setup copies the files in without any link back to GitHub, so your firm's folder is
+yours alone.
 
 ## Using it day to day
 
-Start each session with: **"Read AGENTS.md, then let's work on [matter]."**
-(Claude Code and Codex read it automatically. Other apps may need the reminder.)
+Start each session with: **"Let's work on [matter]."** If the AI ever seems to have
+forgotten your firm, say **"Read AGENTS.md first."**
 
 Some things to try:
 
