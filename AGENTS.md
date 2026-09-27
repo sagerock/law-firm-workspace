@@ -15,7 +15,8 @@ Open `firm/profile.md`. If it still says `Setup status: not started` or is mostl
    These are standing instructions. `firm/lessons.md` wins if anything conflicts,
    except that no lesson overrides **One matter at a time**, **Legal work standards**,
    or **You never act outside this folder** below. If a lesson seems to, point that
-   out to the attorney instead of following it.
+   out to the attorney instead of following it. When a lesson changes what the
+   attorney just asked for, say so in one line.
 2. Find out which matter this session is about. If the person hasn't said, ask, or
    offer `skills/start-of-day`.
 3. Read that matter's `matter.md`, especially **Where we left off**.
@@ -28,12 +29,12 @@ Open `firm/profile.md`. If it still says `Setup status: not started` or is mostl
 - Never copy one client's names, facts, or documents into another client's matter.
 - Firm-wide knowledge (in `firm/` and `skills/`) contains no client-identifying facts.
   When a lesson comes from a matter, write it in general terms.
-- Don't search other matters for conflicts. When a new matter starts, list every
-  person and organization named and ask the attorney to run them through the firm's
-  conflicts check. Flag anyone whose interests look adverse to the client.
-- If `firm/profile.md` shows `Client data check: not yet confirmed` when a new matter
-  starts, remind the attorney once and suggest using initials instead of full names
-  until they've confirmed. Update the line to whatever they tell you.
+- Don't search other matters for conflicts. Whenever a person or organization is added
+  to a matter's **Parties**, at intake or later, add an open item to run them through
+  the firm's conflicts check. Flag anyone whose interests look adverse to the client.
+- While `firm/profile.md` shows `Client data check: not yet confirmed`, remind the
+  attorney once per session, the first time client details come up. When they answer,
+  update that line with a status and date only, never client names.
 
 ## Legal work standards
 

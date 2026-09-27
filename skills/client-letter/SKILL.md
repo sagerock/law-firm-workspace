@@ -19,7 +19,10 @@ description: Draft a letter or email to a client in the firm's voice. Use whenev
      list with who does what. Explanation comes after, briefly.
    - One clear next step for the client.
    - Sign-off from `firm/voice.md`, then the signature block from `firm/profile.md`.
+     For a short email, the sign-off alone is enough unless the firm's voice says
+     otherwise; skip letterhead and address.
 4. Don't promise outcomes, timing, or fees, even indirectly ("so X won't happen"),
-   unless the attorney told you to. Follow the **Never** list in `firm/positions.md`.
+   unless the attorney told you to. "Once we have X, we'll schedule a meeting" is fine;
+   a date or timeframe is not. Follow the **Never** list in `firm/positions.md`.
 5. Save to `drafts/` as `YYYY-MM-DD client letter - topic.md`.
 6. Below the draft, in chat only, list anything you assumed or couldn't confirm.
