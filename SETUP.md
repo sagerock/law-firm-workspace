@@ -37,14 +37,16 @@ Tell them, in your own words:
 ## Step 2: Interview, one round at a time
 
 Ask one round, wait for answers, then move on. Accept short or partial answers and
-write down what they said. At most one follow-up question per round.
+write down what they said. Ask a follow-up only when an answer could be read two ways
+that would change how you'd draft, for example "separate trusts" (per spouse or per
+child?).
 
 **Round 1: The firm**
 1. Firm name, and your name and role?
 2. Practice areas, and which one takes most of your time?
 3. Which state(s) or jurisdictions do you practice in?
 4. Who else works with you? (Names and roles.)
-5. The office address, phone, and signature block you use on letters?
+5. For letters: office address, phone, email, website, and signature block?
 
 **Round 2: How you write**
 6. Who are your typical clients? (For example: retirees, young families, business
@@ -83,11 +85,13 @@ Anything skipped becomes `[not yet provided]` so it's easy to fill in later.
 
 1. Read `skills/README.md`. The starter skills lean toward estate planning. If their
    practice is different, offer to move the ones that don't fit to `skills/_unused/`.
-2. For the task they named in question 12, first check whether existing skills already
-   cover part of it. Build the new skill on top of them rather than repeating them.
-3. Ask one or two quick questions to learn what a good result looks like (what goes
-   in it, when it happens, who does which part). Then follow `skills/make-a-skill`,
-   show them the draft, and adjust.
+2. For the task they named in question 12, check whether an existing skill already
+   covers it. If one does, tell them which one and what to say to use it, and skip
+   to Step 5.
+3. Otherwise, ask one or two quick questions to learn what a good result looks like
+   (what goes in it, when it happens, who does which part). Build on existing skills
+   rather than repeating them. Follow `skills/make-a-skill`, show them the draft,
+   and adjust.
 
 ## Step 5: Show them how to use it
 
@@ -110,9 +114,10 @@ In ten lines or fewer:
 - What you set up.
 - What was skipped or left as `[not yet provided]`.
 - A suggestion for the next skill, based on their other answers to question 11.
-- A reminder that everything drafted here is for attorney review, and that whether to
-  put confidential client information into their AI app depends on their provider's
-  data terms and their ethics rules. They should confirm that before opening a real
-  matter.
+- A reminder that everything drafted here is for attorney review.
+- Ask directly: "Have you confirmed that your AI plan's data terms and your ethics
+  rules allow putting client information in here?" Record the answer in the
+  `Client data check` line of `firm/profile.md`. If not yet, suggest using initials
+  instead of client names until they have.
 
 Then ask what they'd like to work on first.

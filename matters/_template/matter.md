@@ -16,6 +16,11 @@ What the client wants to accomplish, in their words where possible.
 
 ## Key facts
 
+## Issues to consider
+
+Legal issues spotted so far, each tied to the fact that raised it. `[verify]` marks
+anything that depends on current law.
+
 ## Deadlines
 
 | Date | What | Source |

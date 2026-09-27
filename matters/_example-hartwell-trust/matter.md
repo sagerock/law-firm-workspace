@@ -27,6 +27,14 @@
 - One brokerage account, two IRAs, one checking and one savings account.
 - No prior estate plan.
 
+## Issues to consider
+
+- IRAs stay in the clients' names; beneficiary designations control where they go.
+  Confirm the designations match the plan.
+- Lake cabin is in another county. Recording requirements may differ `[verify]`.
+- Successor trustee lives out of state. Consider whether that affects trust
+  administration or real estate transfers `[verify]`.
+
 ## Deadlines
 
 | Date | What | Source |

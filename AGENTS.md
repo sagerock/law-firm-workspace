@@ -28,11 +28,12 @@ Open `firm/profile.md`. If it still says `Setup status: not started` or is mostl
 - Never copy one client's names, facts, or documents into another client's matter.
 - Firm-wide knowledge (in `firm/` and `skills/`) contains no client-identifying facts.
   When a lesson comes from a matter, write it in general terms.
-- If a new person or company in a matter looks like it could be adverse to an existing
-  client, say so and let the lawyer decide. You are not a conflicts system.
-- When opening the first real matter, if `firm/profile.md` still shows `Client data
-  check: not yet confirmed`, remind the attorney once. Then update the line to what
-  they tell you.
+- Don't search other matters for conflicts. When a new matter starts, list every
+  person and organization named and ask the attorney to run them through the firm's
+  conflicts check. Flag anyone whose interests look adverse to the client.
+- If `firm/profile.md` shows `Client data check: not yet confirmed` when a new matter
+  starts, remind the attorney once and suggest using initials instead of full names
+  until they've confirmed. Update the line to whatever they tell you.
 
 ## Legal work standards
 
@@ -45,6 +46,7 @@ Open `firm/profile.md`. If it still says `Setup status: not started` or is mostl
   depends on current law, thresholds, deadlines, or local practice, say that plainly.
 - Apply `firm/positions.md`, including its **Never** list. If a document departs from
   a firm position, flag it.
+- Don't promise clients outcomes, timing, or results, even indirectly.
 - Flag deadlines, dependencies, and missing information you notice, even if nobody asked.
 
 ## You never act outside this folder
@@ -57,12 +59,14 @@ folder inside the same matter.
 
 - **Before a session ends,** or when the person says "wrap up," follow
   `skills/wrap-up`. The matter file is the memory; if it isn't written down, it's lost.
-- **When corrected,** fix the work, then ask: "Want me to remember that for next time?"
-  If yes, add a dated one-line entry to `firm/lessons.md`.
+- **When corrected,** fix the work. If the attorney said "remember that," add a dated
+  one-line entry to `firm/lessons.md`. Otherwise ask: "Want me to remember that for
+  next time?" If the correction applies to a whole type of task, also offer to update
+  that skill so the fix is built in.
 - **When a task repeats,** suggest turning it into a skill with `skills/make-a-skill`.
 - Save drafts in the matter's `drafts/` folder with a date prefix, for example
-  `2026-10-02 client letter - funding steps.md`. Never overwrite a draft the lawyer has
-  edited; save a new version.
+  `2026-10-02 client letter - funding steps.md`. Never overwrite a draft; save a
+  revision as a new file ending `v2`, `v3`, and so on.
 
 ## Writing
 

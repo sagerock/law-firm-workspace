@@ -12,8 +12,9 @@ Client data check: [not yet confirmed — has the firm reviewed its AI plan's da
 
 ## Letterhead
 
-- **Office address:** [address]
+- **Office address:** [street, city, state, ZIP]
 - **Phone:** [phone]
+- **Email and website:** [email, website]
 - **Signature block:** [name, title, firm, contact lines as used on letters]
 
 ## Practice areas
