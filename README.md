@@ -72,5 +72,11 @@ ethics guidance (see ABA Formal Opinion 512 on generative AI), and your engageme
 letters before putting confidential information in. Everything the AI drafts is a
 draft; a lawyer reviews it before it goes anywhere.
 
+## Get new skills by email
+
+We add new skills and improvements as firms use this. Each email comes with one line to
+paste so your workspace picks up the change. Sign up at
+[sagerock.com/law-firm-workspace](https://sagerock.com/law-firm-workspace).
+
 Made by [SageRock](https://sagerock.com). Free to use and adapt under the
 [MIT License](LICENSE), provided as is, with no warranty.
