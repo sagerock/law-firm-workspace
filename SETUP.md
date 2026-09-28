@@ -6,6 +6,12 @@ this feel like a friendly 15-minute intake conversation, not software installati
 
 ## Step 0: Get the files in place (do this quietly)
 
+**Choose the folder without making the person decide.** If a folder is already open and
+it's empty or already holds this workspace, use it. Otherwise create a folder called
+`Firm Workspace` in their Documents folder, work there, and tell them in one line where
+it is. If your app requires the person to pick or approve a folder, suggest the new
+`Documents/Firm Workspace` folder rather than listing options.
+
 If this folder doesn't already contain `AGENTS.md`, `firm/`, `matters/`, and `skills/`,
 get them from the GitHub link you were given:
 

@@ -20,14 +20,16 @@ builds on itself instead of starting over.
 
 ## Start in five minutes
 
-1. Make an empty folder on your computer, for example `Documents/Firm Workspace`.
-2. Open the Claude desktop app (Cowork) or the Codex app and point it at that folder.
-3. Paste this:
+1. Open the Claude desktop app (Cowork) or the Codex app.
+2. Paste this:
 
-   > Set up my firm workspace using https://github.com/sagerock/law-firm-workspace.
-   > Download it into this folder, then follow SETUP.md.
+   > Set up my firm workspace from https://github.com/sagerock/law-firm-workspace.
+   > If you need a folder, create one called Firm Workspace in my Documents folder and
+   > use that. Then follow SETUP.md.
 
-4. Answer the setup questions. It takes about 15 minutes. Skip anything you like; you
+   If the app asks whether to use an existing folder or make a new one, let it make a
+   new one.
+3. Answer the setup questions. It takes about 15 minutes. Skip anything you like; you
    can fill it in later.
 
 If your app can't download from GitHub, click **Code → Download ZIP** on the GitHub
