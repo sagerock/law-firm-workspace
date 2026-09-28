@@ -1,5 +1,8 @@
 # Law Firm AI Workspace
 
+> **This is a starting template, not legal advice.** The AI can be wrong. A lawyer
+> reviews everything it produces before it's relied on or sent.
+
 A starter workspace that gives an AI assistant a lasting memory of your firm: who you
 are, how you write, what positions you take, and where every matter stands. It is just
 folders and plain-text files. There is no software to install and no account to create
@@ -69,4 +72,5 @@ ethics guidance (see ABA Formal Opinion 512 on generative AI), and your engageme
 letters before putting confidential information in. Everything the AI drafts is a
 draft; a lawyer reviews it before it goes anywhere.
 
-Made by [SageRock](https://sagerock.com).
+Made by [SageRock](https://sagerock.com). Free to use and adapt under the
+[MIT License](LICENSE), provided as is, with no warranty.
